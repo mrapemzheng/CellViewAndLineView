@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C1159F9E-7EBB-4448-82FE-39CF0A5B40AC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AVFoundationDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>59C67E98DEADD2AE3ACBB203E0F013B662EE84FC</key>
+		<string>https://github.com/iosApem/CellViewAndLineView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AVFoundationDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>59C67E98DEADD2AE3ACBB203E0F013B662EE84FC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/iosApem/CellViewAndLineView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>59C67E98DEADD2AE3ACBB203E0F013B662EE84FC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>59C67E98DEADD2AE3ACBB203E0F013B662EE84FC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AVFoundationDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
